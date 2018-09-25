@@ -1,0 +1,38 @@
+vtu
+{
+	background-color:red;
+	display:block;
+	max-width:40%;
+	margin-top:10px;
+	margin-left:500px;
+}
+stu1
+{
+	padding:10px;
+}
+usn
+{
+        display:block;
+	font-weight:bold;
+	color:yellow;
+}
+name
+{
+	display:block;
+}
+college
+{
+	display:block;
+}
+branch
+{
+	display:block;
+}
+year
+{
+	display:block;
+}
+e-mail
+{
+	display:block;
+}
