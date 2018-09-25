@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="stu.css"?>
+<vtu>
+<stu1>
+<usn>USN :4VV15CS001</usn>
+<name>NAME : A</name>
+<college>COLLEGE : VVCE</college>
+<branch>BRANCH : CSE</branch>
+<year>YEAR : 2000</year>
+<e-mail>E-MAIL : abc@gmail.com</e-mail>
+</stu1>
+<stu1>
+<usn>USN :4VV15CS002</usn>
+<name>NAME : B</name>
+<college>COLLEGE : VVCE</college>
+<branch>BRANCH : CSE</branch>
+<year>YEAR : 2001</year>
+<e-mail>E-MAIL : def@gmail.com</e-mail>
+</stu1>
+<stu1>
+<usn>USN :4VV15CS003</usn>
+<name>NAME : C</name>
+<college>COLLEGE : VVCE</college>
+<branch>BRANCH : CSE</branch>
+<year>YEAR : 2002</year>
+<e-mail>E-MAIL : ghi@gmail.com</e-mail>
+</stu1>
+</vtu>
